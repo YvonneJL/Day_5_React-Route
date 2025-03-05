@@ -11,7 +11,7 @@ const Home = () => {
             <div>
                 <img src="../../public/Home.png" alt="Tisch" />
             </div>
-            <div className="absolute bg-background-pink w-120 h-screen -z-10 right-0 -top-20"></div>
+            <div className="absolute bg-background-pink w-120 h-screen -z-10 right-0 -top-19"></div>
         </section>
      );
 }
