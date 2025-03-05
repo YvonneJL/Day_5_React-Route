@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "nunito";
+  src: url("/Nunito-VariableFont_wght.ttf") format("truetype");
+}
+
+@theme {
+  --color-footer-grey: #f1f1f1;
+  --color-button-yellow: #daa520;
+  --color-font-black: #313235;
+  --color-font-grey-footer: #8d8d8d;
+  --color-background-pink: #f9bdbd;
+  --color-line-footer: #c4c4c4;
+
+}
+
+html {
+  font-family: "nunito";
+}
